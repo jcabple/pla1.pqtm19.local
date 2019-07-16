@@ -201,11 +201,11 @@ Un cop fet tot això, cal clicar "Commit" per carregar aquesta versió al reposi
 
 > ![](./media/Foto_360.PNG)
  
-##7. Creació de Repositori de GitHub 
+## 7. Creació de Repositori de GitHub 
 
 > ![](./media/Foto_500.png)
 
-##8. Exportació de la branca “master” local sobre repositori GitHub 
+## 8. Exportació de la branca “master” local sobre repositori GitHub 
 
 > ![](./media/Foto_600.PNG)
 
