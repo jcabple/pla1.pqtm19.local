@@ -1,0 +1,24 @@
+@charset "UTF-8";
+@import url("reset.css");
+
+/* Selector => elemento:ul directamente bajo elemento:nav */
+nav > ul {
+	margin: 5px auto;
+	width: 80%;
+	border: 1px solid silver;
+}
+
+nav > ul > li {
+	display: inline-block;
+	width: 24%;
+	margin: 5px auto;
+	text-align: center;
+}
+
+nav > ul > li > ul{
+	display: none;
+} 
+
+nav > ul > li:hover > ul {
+	display: block;
+}
